@@ -1,0 +1,31 @@
+{
+  "name": "movie-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start --dev-client",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^4.32.0",
+    "expo": "~49.0.5",
+    "expo-asset": "~8.10.1",
+    "expo-splash-screen": "~0.20.4",
+    "expo-status-bar": "~1.6.0",
+    "react": "18.2.0",
+    "react-native": "0.72.3",
+    "react-native-pager-view": "6.2.0",
+    "styled-components": "^6.0.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@tsconfig/react-native": "^3.0.2",
+    "@types/jest": "^29.5.3",
+    "@types/react": "^18.2.17",
+    "@types/react-test-renderer": "^18.0.0",
+    "typescript": "^5.1.6"
+  },
+  "private": true
+}

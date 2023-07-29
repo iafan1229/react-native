@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "movie-project",
+    "slug": "movie-project",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/icon.png",
+      "backgroundColor": "#FEF9B0"
+    }
+  },
+  "name": "movie-project"
+}
